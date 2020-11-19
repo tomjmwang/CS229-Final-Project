@@ -156,9 +156,6 @@ def main():
 
     
 
-    
-
-    # Code for calculating win rate
 
     output_file = open("stats_" + str(NUM_PLAYERS) + ".txt", "w")
     
